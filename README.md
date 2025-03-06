@@ -16,4 +16,5 @@ HTML, CSS, JavaScript
 1. Open the Notepad in your browser
 2. Start typing your notes instantly
 3. Save or manage your notes with ease
-🔗 Live Demo (Add link if hosted)
+   
+🔗 Live Demo (https://yashkurhe5314.github.io/NotePad/)
